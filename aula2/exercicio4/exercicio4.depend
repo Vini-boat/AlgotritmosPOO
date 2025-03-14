@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1741996462 source:c:\users\bezerravinicius\desktop\poo\aula2\exercicio4\src\calculadora.cpp
+	"Calculadora.h"
+	<iostream>
+	<string>
+
+1741996446 c:\users\bezerravinicius\desktop\poo\aula2\exercicio4\include\calculadora.h
+	<string>
+
+1741396183 source:c:\users\bezerravinicius\desktop\poo\aula2\exercicio4\main.cpp
+	<iostream>
+	"Calculadora.h"
+	"Funcionario.h"
+	"Empresa.h"
+
+1741996442 c:\users\bezerravinicius\desktop\poo\aula2\exercicio4\include\funcionario.h
+	<string>
+	"Calculadora.h"
+
+1741996445 c:\users\bezerravinicius\desktop\poo\aula2\exercicio4\include\empresa.h
+	<string>
+	"Funcionario.h"
+
+1741996492 source:c:\users\bezerravinicius\desktop\poo\aula2\exercicio4\src\empresa.cpp
+	"Empresa.h"
+	<iostream>
+	<string>
+
+1741996446 source:c:\users\bezerravinicius\desktop\poo\aula2\exercicio4\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+	<string>
+
